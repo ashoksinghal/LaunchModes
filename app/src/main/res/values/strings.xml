@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LaunchModes</string>
+    <string name="standard">standard</string>
+    <string name="singleTop">singleTop</string>
+    <string name="SingleTask">singleTask</string>
+    <string name="SingleInstance">singleInstance</string>
+
+
+    <string-array name="launchmodes">
+        <item>@string/standard</item>
+        <item>@string/singleTop</item>
+        <item>@string/SingleTask</item>
+        <item>@string/SingleInstance</item>
+    </string-array>
+</resources>
